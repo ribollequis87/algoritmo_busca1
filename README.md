@@ -25,10 +25,10 @@ O algoritmo que obteve tempo de processamento menor foi o de Busca em Profundida
 Realizei o Plot de 3 gráficos para melhor compreensão. Como o Busca em Largura demorou bem mais tempo para rodar que os demais, fiz um gráfico com os 4 algoritmos, em seguida com os 3 (Profundidade com m=10, Profundidade com m=100 e Profundidade Iterativa) e no final com os 2 de Profundidade, que obtiveram tempos parecidois, para que a análise seja mais profunda.
 
 ## 1- Gráfico Completo de Algoritmos de Busca
-![](graficos\4_buscas.png)
+![Gráfico Completo de Algoritmos de Busca](graficos/4_buscas.png)
 
 ## 2- Gráfico de Algoritmos de BP e BPI
-![](graficos\3_buscas.png)
+![Gráfico de Algoritmos de BP e BPI](graficos/3_buscas.png)
 
 ## 3- Gráfico de Algoritmos de Busca de Profundidade
-![](graficos\2_buscas.png)
+![Gráfico de Algoritmos de Busca de Profundidade](graficos/2_buscas.png)
